@@ -1,0 +1,39 @@
+{
+  "name": "vue-feather-icon-corrected",
+  "version": "1.0.0",
+  "description": "Bug free version of vue-feather-icon",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "event-stream": "^3.3.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-flatten": "^0.3.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "build": "node ./node_modules/.bin/gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mage3k/vue-feather-icon.git"
+  },
+  "keywords": [
+    "vue",
+    "feather",
+    "icon",
+    "svg"
+  ],
+  "author": "thsr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thsr/vue-feather-icon-corrected"
+  },
+  "files": [
+    "index.js",
+    "plugin.js",
+    "components"
+  ],
+  "homepage": "https://github.com/thsr/vue-feather-icon-corrected#readme"
+}
