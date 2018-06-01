@@ -1,6 +1,6 @@
 {
   "name": "vue-feather-icon-corrected",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Bug free version of vue-feather-icon",
   "main": "index.js",
   "devDependencies": {
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mage3k/vue-feather-icon.git"
+    "url": "git+https://github.com/thsr/vue-feather-icon-corrected.git"
   },
   "keywords": [
     "vue",
